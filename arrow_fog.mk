@@ -12,8 +12,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/arrow/config/common.mk)
 
 # ArrowOS Additional Flags
-DEVICE_MAINTAINER := Iverz
-DEVICE_MAINTAINER_LINK := https://t.me/JustVerz
+DEVICE_MAINTAINER := Emanuel
+DEVICE_MAINTAINER_LINK := 
 TARGET_BOOT_ANIMATION_RES := 720
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := false
