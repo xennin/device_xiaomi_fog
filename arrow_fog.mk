@@ -13,7 +13,7 @@ $(call inherit-product, vendor/arrow/config/common.mk)
 
 # ArrowOS Additional Flags
 DEVICE_MAINTAINER := Emanuel
-DEVICE_MAINTAINER_LINK := 
+DEVICE_MAINTAINER_LINK := @X3manuel
 TARGET_BOOT_ANIMATION_RES := 720
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := false
